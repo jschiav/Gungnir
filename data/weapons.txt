@@ -30,13 +30,11 @@ outfit "Thunderhead Lance"
 	"weapon capacity" -10
 	"gun ports" -1
 	weapon
-		sprite "projectile/heavy laser"
-			"frame rate" 1
-# 		sprite "projectile/thunderhead-lance"
-# 			"frame rate" 1
+ 		sprite "projectile/thunderhead-lance"
+ 			"frame rate" 1
 		sound "thunderhead-lance"
-		"hit effect" "thunderhead impact"
-		"inaccuracy" 0.4
+		"hit effect" "lance impact"
+		"inaccuracy" 2.0
 		"velocity" 175
 		"lifetime" 1
 		"reload" 1
@@ -46,3 +44,13 @@ outfit "Thunderhead Lance"
 		"shield damage" 14
 		"hull damage" 14
 	description "Thunderheads are built around this stocky beam unit. The Lance is a simple laser; nothing more, nothing less. It is a very highly charged weapon, but it is effective only at short range.  Therefor the best way to use a Lance is to almost ram the ship in question."
+
+effect "lance impact"
+	sprite "effect/lance impact"
+		"no repeat"
+		"frame rate" 30
+	"lifetime" 9
+	"random angle" 360
+	"random spin" 30
+	"random velocity" 2
+	"velocity scale" -.05
