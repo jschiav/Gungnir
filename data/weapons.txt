@@ -89,3 +89,4 @@ effect "lance impact"
 	"random spin" 30
 	"random velocity" 2
 	"velocity scale" -.05
+
