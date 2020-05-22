@@ -42,20 +42,12 @@ outfitter "Hai Unfettered"
 	"Quantum Keystone"
 	"Pulse Rifle"
 
-# Copyright (c) 2014 by Michael Zahniser
-#
-# Endless Sky is free software: you can redistribute it and/or modify it under the
-# terms of the GNU General Public License as published by the Free Software
-# Foundation, either version 3 of the License, or (at your option) any later version.
-#
-# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
-# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 outfitter "Deep Sky Basics"
 	"Ramscoop"
 	"LP144a Battery Pack"
 	"Mining Laser"
+	"Heavy Mining Laser"
 	"Beam Laser"
 	"Laser Turret"
 	"Heavy Laser"
@@ -74,6 +66,7 @@ outfitter "Deep Sky Advanced"
 	"Ramscoop"
 	"LP144a Battery Pack"
 	"Mining Laser"
+	"Heavy Mining Laser"
 	"Beam Laser"
 	"Laser Turret"
 	"Heavy Laser"
@@ -188,6 +181,7 @@ outfitter "Kraz Advanced"
 	"Blaster Turret"
 	"Torpedo"
 	"Mining Laser"
+	"Heavy Mining Laser"
 	"Beam Laser"
 	"Cargo Scanner"
 	"Liquid Helium Cooler"
@@ -206,6 +200,44 @@ outfitter "Kraz Advanced"
 	"Small Radar Jammer"
 	"Large Radar Jammer"
 	"Tactical Scanner"
+
+outfitter hai
+	"Ion Cannon"
+	"Pulse Cannon"
+	"Thunderhead Lance"
+	"Pulse Turret"
+	"Hai Tracker"
+	"Hai Tracker Pod"
+	"Bullfrog Anti-Missile"
+	"Chameleon Anti-Missile"
+	"Hai Corundum Regenerator"
+	"Hai Diamond Regenerator"
+	"Hai Williwaw Cooling"
+	"Hai Chasm Batteries"
+	"Hai Fissure Batteries"
+	"Hai Gorge Batteries"
+	"Hai Ravine Batteries"
+	"Hai Valley Batteries"
+	"Pebble Core"
+	"Geode Reactor"
+	"Boulder Reactor"
+	`"Basrem" Atomic Thruster`
+	`"Benga" Atomic Thruster`
+	`"Biroo" Atomic Thruster`
+	`"Bondir" Atomic Thruster`
+	`"Bufaer" Atomic Thruster`
+	`"Basrem" Atomic Steering`
+	`"Benga" Atomic Steering`
+	`"Biroo" Atomic Steering`
+	`"Bondir" Atomic Steering`
+	`"Bufaer" Atomic Steering`
+	`"Baellie" Atomic Engines`
+	"Sand Cell"
+	"Railgun"
+	"Railgun Slug"
+	"Tracker Storage Pod"
+	"Quantum Keystone"
+	"Pulse Rifle"
 
 outfitter human
 	"Energy Blaster"
@@ -287,6 +319,7 @@ outfitter human
 	"Heavy Rocket Launcher"
 	"Torpedo Launcher"
 	"Mining Laser"
+	"Heavy Mining Laser"
 	"Beam Laser"
 	"Afterburner"
 	"Supercapacitor"
@@ -326,3 +359,67 @@ outfitter human
 	"Heavy Rocket Rack"
 	"Javelin Storage Crate"
 	"Torpedo Storage Rack"
+
+shipyard human
+	"Hinotori"
+	"Shuttle"
+	"Sparrow"
+	"Star Barge"
+	"Hawk"
+	"Blackbird"
+	"Osprey"
+	"Falcon"
+	"Clipper"
+	"Fury"
+	"Argosy"
+	"Hauler"
+	"Hauler II"
+	"Hauler III"
+	"Bastion"
+	"Scout"
+	"Dagger"
+	"Flivver"
+	"Headhunter"
+	"Raven"
+	"Mule"
+	"Aerie"
+	"Corvette"
+	"Bactrian"
+	"Heavy Shuttle"
+	"Berserker"
+	"Firebird"
+	"Leviathan"
+	"Behemoth"
+	"Star Queen"
+	"Rainmaker"
+	"Gunboat"
+	"Lance"
+	"Combat Drone"
+	"Surveillance Drone"
+	"Frigate"
+	"Cruiser"
+	"Carrier"
+	"Quicksilver"
+	"Bounder"
+	"Splinter"
+	"Manta"
+	"Wasp"
+	"Freighter"
+	"Bulk Freighter"
+	"Protector"
+	"Vanguard"
+	"Arrow"
+	"Modified Argosy"
+	"Dreadnought"
+	"Skein"
+	"Roost"
+	"Nest"
+	"Barb"
+	"Barb (Proton)"
+	"Boxwing"
+	"Finch"
+	"Kestrel (More Shields)"
+	"Kestrel (More Weapons)"
+	"Kestrel (More Engines)"
+	"Class C Freighter"
+
